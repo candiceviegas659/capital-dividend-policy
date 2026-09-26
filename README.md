@@ -1,6 +1,6 @@
-Capital Structure and Dividend Policy of Wipro
-*Project Overview
-This minor project report evaluates the corporate financial management framework of Wipro Limited , analyzing its capital configurations, dividend payout sustainability, and operational risk metrics across a six-year horizon (FY 2019–2024). 
+* Capital Structure and Dividend Policy of Wipro
+* Project Overview
+* This minor project report evaluates the corporate financial management framework of Wipro Limited , analyzing its capital configurations, dividend payout sustainability, and operational risk metrics across a six-year horizon (FY 2019–2024). 
 
 * Author: Candice Tony Viegas (Roll No. 70)
 * Program: Bachelor of Business Administration (BBA, Semester VI)
